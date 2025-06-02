@@ -16,6 +16,7 @@ Customer Insights Dashboard: Detailed view of customer behavior and segmentation
 **Project Stages**
 
 **STAGE 1: Connecting & Shaping Data**
+
 Tools: Power Query
 
 Connected to various data sources (Excel, web, databases)
@@ -37,6 +38,7 @@ Merging and appending queries
 Parameterizing data sources
 
 **STAGE 2: Creating a Relational Data Model**
+
 Focus: Data Modeling Best Practices
 
 Built a star schema with clearly defined fact and dimension tables
@@ -50,6 +52,7 @@ Added hierarchies and standardized data formats
 Optimized model layout for clarity and performance
 
 **STAGE 3: Adding Calculated Fields with DAX**
+
 Focus: Business Logic & Metrics
 
 Built calculated columns and measures using DAX
@@ -67,6 +70,7 @@ Time intelligence functions (YTD, MTD, previous periods)
 Developed both implicit and explicit measures to support visual KPIs
 
 **STAGE 4: Visualizing Data with Reports**
+
 Focus: Dashboard Design & Interactivity
 
 Followed data visualization best practices
@@ -89,7 +93,8 @@ Built mobile-friendly layouts
 
 Published to Power BI Service for sharing and access control
 
-Advanced Features & Highlights
+**Advanced Features & Highlights**
+
 Smart visuals: Key Influencers, Decomposition Trees, Smart Narratives
 
 Natural Language Q&A integration
